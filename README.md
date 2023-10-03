@@ -132,3 +132,44 @@ It includes essential features for data management, reporting, and user interact
 
 ### Data base - concept
 ![Picture1](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/38608ac0-f09d-4c72-a4c4-5cc636508c27)
+
+### How to use it
+#### The program opens with a login window where authorized individuals need to sign in using their institutional email and password. Alternatively, new accounts can be created here.
+![Screenshot 2023-05-17 115447](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/9c2c4815-cb63-440d-971b-09ddf84183f4)
+#### Access credentials for authorized individuals.
+![Screenshot 2023-05-17 115600](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/b6ae992c-8062-4495-b6c7-ec22d9574fcc)
+#### Invalid access data; data validation is observed during authentication, and the individual must repeat the login process.
+![Screenshot 2023-05-17 115632](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/57680490-54f9-4701-b677-e993fc9eedcc)
+### Based on the authentication data used, the person, depending on their role as either an administrator or secretary, will see an interface that allows them to perform role-specific activities.
+### View Administrator:
+#### They have access to all pages, and the data on these pages can be modified in real-time.
+![Screenshot 2023-05-17 115808](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/510a325e-b857-45b5-9939-e6f4d3bf5b29)
+#### They can add a student by filling out the specific fields.
+![Screenshot 2023-05-17 115845](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/1ff395c9-1aa5-4ee3-9c17-57c34aba9471)
+#### The process of modifying a student.
+![Screenshot 2023-05-17 115935](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/bd081816-24b1-4d68-8858-00e984b35440)
+#### Deletion – removing a student from the database using the garbage icon.
+![Screenshot 2023-05-17 120048](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/70ee10f2-eae9-4edb-9961-37f340cfc1d5)
+#### Bar chart with important data from tables.
+![Screenshot 2023-05-17 120234](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/c1e99f5d-15cc-44c6-96f0-3015c70dbe53)
+#### Saving the chart in PDF, PNG, JPEG format, or printing it.
+![Screenshot 2023-05-17 123002](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/b335886c-b93d-4745-9303-042f2d6e42a2)
+#### Real-time analysis of activities on the platform.
+![Screenshot 2023-05-17 120301](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/6cb1c541-2a7e-4187-85a0-04790dba085f)
+#### Saving the student table to an Excel file.
+#### The saved Excel file: [File Name]
+![Screenshot 2023-05-17 120427](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/5e6afbee-761d-408e-a95a-bb755ed1d58d)
+#### Reading data from Excel:
+![Screenshot 2023-05-17 120519](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/22db4579-944d-4afc-be96-1e8713e74e21)
+### View Secretary:
+#### They have access to the "Students" page, and the data on this page can be modified in real-time.
+![Screenshot 2023-05-17 120552](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/02ec520e-2f38-4f45-982c-fa8684bce53d)
+#### Filtering data based on multiple criteria.
+![Screenshot 2023-05-17 120800](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/4fea3e0b-d9a6-4b79-bb7f-8fabb553e6bb)
+#### Searching for a student by registration number.
+![Screenshot 2023-05-17 120913](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/3837995a-4e08-4fff-971b-0c7a17c96dce)
+#### Various types of reports displayed in the designated area, with some examples of reports, automatically saved in Excel.
+![Screenshot 2023-05-17 120942](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/9346f31e-30f8-4be4-a6ed-6c68f2bde917)
+![Screenshot 2023-05-17 121037](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/456ebe9c-b85a-420c-bff0-7c4bbc832a13)
+
+
