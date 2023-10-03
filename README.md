@@ -129,6 +129,13 @@ It includes essential features for data management, reporting, and user interact
 <img align="left" width="70px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" />
 
 <br>
+<br>
+
+<pre>
+I used the PDO driver to establish the connection between the PHP program and the database.
+  ->For saving files in .xlsx format, I used built-in functions in PHP.
+</pre>
+<br>
 
 ### Data base - concept
 ![Picture1](https://github.com/AgacheAndrei/php-website-for-student-management/assets/36128809/38608ac0-f09d-4c72-a4c4-5cc636508c27)
